@@ -7,3 +7,4 @@ pdfkit==1.0.0
 python-decouple==3.8
 twilio==8.2.2
 WTForms==3.0.1
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
